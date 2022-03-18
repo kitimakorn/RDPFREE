@@ -2,7 +2,9 @@
 
 **Windows Server 2019 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
 
-Repo link: https://github.com/charan2004153/RDP_Windows2019
+FB link: https://web.facebook.com/NayNath.net/
+
+YouTube link: https://www.youtube.com/channel/UC0OYY3WduLfY6_qLA_BCPWg
 
 
 + Click Fork in the right corner of the screen to save it to your Github.
